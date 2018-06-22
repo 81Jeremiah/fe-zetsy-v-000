@@ -31,7 +31,9 @@ h1 {
 header {
 	color: #98ada6;
 }
-
+header a:hover {
+	color: #6f7f7a;
+}
 h2 {
 	color: #6f7f7a;
 	font-size: 2em;
