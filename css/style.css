@@ -30,6 +30,7 @@ h1 {
 
 header a{
 	color: #98ada6;
+  text-decoration: none;
 }
 header a:hover {
 	color: #6f7f7a;
